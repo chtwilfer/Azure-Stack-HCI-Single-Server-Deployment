@@ -30,6 +30,21 @@ In this step you configure the core information of the node.
 | Restart the Server | check ;-) |
 
 ## Step 3 - Create cluster
+In this step we will configure the Stack
+
+|Step|Screenshot|
+|-|-|
+| 1. |  |
+| 2. |  |
+| 3. |  |
+| 4. |  |
+| 5. |  |
+| 6. |  |
+| 7. |  |
+| 8. |  |
+| 9. |  |
+| Ready! | check ;-) |
+
 
 ## Step 4 - Register the cluster
 
