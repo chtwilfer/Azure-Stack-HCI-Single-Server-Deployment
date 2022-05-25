@@ -24,7 +24,7 @@ In this step you configure the core information of the node.
 
 |Step|Screenshot|
 |-|-|
-| SConfig Overview |![SConfig](images/SConfig_1.PNG)|
+| SConfig Overview |![SConfig](Images/SConfig_1.PNG) |
 
 
 ## Step 3 - Create cluster
