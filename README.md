@@ -1,1 +1,1 @@
-# Azure-Stack-HCI-Single-Server-Deployment
+# Azure Stack HCI Single Server Deployment
