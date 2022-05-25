@@ -16,6 +16,8 @@ https://docs.microsoft.com/en-us/azure-stack/hci/deploy/create-cluster-powershel
 
 
 ## Step 1 - Download and install Azure Stack HCI ISO Image
+Before we can use Azure Stakc HCI we have to download it from the MIcrosoft Website. See here: https://azure.microsoft.com/de-de/products/azure-stack/hci/hci-download/.
+Then you install the Image to your Hardware.
 
 ## Step 2 - Configure the server
 
