@@ -2,7 +2,7 @@
 
 At Microsoft Build 2022, the Azure Stack HCI Single Node was announced on 5/24/2022. 
 
-Unfortunately the Stack cannot be installed via the Windows Admin Center (at thhis time), so the installation has to be done via Powershell.
+Unfortunately the Stack cannot be installed via the Windows Admin Center (at this time), so the installation has to be done via Powershell.
 
 In this repository I provide the corresponding Powershell scripts for the deployment.
 
@@ -19,7 +19,7 @@ https://docs.microsoft.com/en-us/azure-stack/hci/deploy/create-cluster-powershel
 Before we can use Azure Stakc HCI we have to download it from the MIcrosoft Website. See here: https://azure.microsoft.com/de-de/products/azure-stack/hci/hci-download/.
 Then you install the Image to your Hardware.
 
-## Step 2 - Configure the server
+## Step 2 - Configure the server (with SConfig)
 
 ## Step 3 - Create cluster
 
