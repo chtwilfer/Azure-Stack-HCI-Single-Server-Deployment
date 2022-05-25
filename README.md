@@ -27,7 +27,7 @@ In this step you configure the core information of the node.
 | SConfig Overview | ![SConfig](Images/SConfig_1.PNG) |
 | Go through the steps | fill out, what you want |
 | Disable SConfig from starting automatically | Set-SConfig -AutoLaunch $False |
-| Reboot the node | click check ;-) |
+| Restart the Server | check ;-) |
 
 ## Step 3 - Create cluster
 
