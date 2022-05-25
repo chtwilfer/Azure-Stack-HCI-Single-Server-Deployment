@@ -50,8 +50,10 @@ You can use my Script from the folder "Scripts".
 After the core step are done you have to register the Azure Stack HCI within 60 days.
 You can do that in two ways.
 
-First way is with Windows Admin Center.
-Second way ist with Powershell.
+|Step|Way|
+|-|-|
+| 1. | Windows Admin Center |
+| 2. | RegisterAzureStackHCI.ps1 |
 
 
 ## Step 5 - Create volumes
