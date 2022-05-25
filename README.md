@@ -22,7 +22,9 @@ Then you install the Image to your Hardware.
 ## Step 2 - Configure the server (with SConfig)
 In this step you configure the core information of the node.
 
-SConfig Overview |![SConfig](images/SConfig_1.PNG)
+|Step|Screenshot|
+|-|-|
+| SConfig Overview |![SConfig](images/SConfig_1.PNG)|
 
 
 ## Step 3 - Create cluster
