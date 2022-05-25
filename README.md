@@ -54,6 +54,8 @@ You can do that in two ways.
 |-|-|
 | 1. | Windows Admin Center |
 | 2. | RegisterAzureStackHCI.ps1 |
+| Ready! | check ;-) |
+You can use my Script from the folder "Scripts".
 
 
 ## Step 5 - Create volumes
