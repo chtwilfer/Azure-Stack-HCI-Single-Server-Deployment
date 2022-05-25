@@ -11,22 +11,12 @@ In this repository I provide the corresponding Powershell scripts for the deploy
 
 ## Step 2 - Install ISO on your Hardware
 
-## Step 3 - Connect to the Server
+## Step 3 - Configure the server
 
-## Step 4 - Domain join
+## Step 4 - Create cluster
 
-## Step 5 - Installation of roles and features
+## Step 5 - Register the cluster
 
-## Step 6- Cluster setup
-
-## Step 7 - Prepare drives
-
-## Step 8 - test cluster config
-
-## Step 9 - Create cluster
-
-## Step 10 - Configure host networking
-
-## Step 11 - Enable Storage Spaces Direct
+## Step 6 - Create volumes
 
 **Ready - your are done!**
