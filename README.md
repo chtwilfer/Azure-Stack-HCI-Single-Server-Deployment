@@ -43,12 +43,19 @@ You can use my Script from the folder "Scripts".
 | 6. | CreateCluster.ps1 |
 | 7. | NetworkATCConfig.ps1 |
 | 8. | EnableStorageSpacesDirect.ps1 |
-| 9. | CreateVolumes.ps1 |
 | Ready! | check ;-) |
 
 
 ## Step 4 - Register the cluster
+After the core step are done you have to register the Azure Stack HCI within 60 days.
+You can do that in two ways.
+
+First way is with Windows Admin Center.
+Second way ist with Powershell.
+
 
 ## Step 5 - Create volumes
+After the Azure Stack HCI is registered to your Azure saubscription you can create Volumes on your Cluster.
+You can you my script from the folder "Scripts" -> CreateVolumes.ps1 or you can use the Windows Admin Center to do that.
 
 **Ready - your are done!**
