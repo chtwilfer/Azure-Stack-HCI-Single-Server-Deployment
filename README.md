@@ -6,12 +6,13 @@ Unfortunately the Stack cannot be installed via the Windows Admin Center, so the
 
 In this repository I provide the corresponding Powershell scripts for the deployment.
 
-More information: 
+Reference information: 
+```
 https://techcommunity.microsoft.com/t5/azure-stack-blog/announcing-azure-stack-hci-support-for-single-node-clusters/ba-p/3408431
 https://docs.microsoft.com/de-de/azure-stack/hci/concepts/single-server-clusters 
 https://docs.microsoft.com/de-de/azure-stack/hci/deploy/single-server 
 https://docs.microsoft.com/en-us/azure-stack/hci/deploy/create-cluster-powershell
-
+```
 
 
 ## Step 1 - Download and install Azure Stack HCI ISO Image
