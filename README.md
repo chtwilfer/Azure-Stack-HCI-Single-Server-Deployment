@@ -30,19 +30,20 @@ In this step you configure the core information of the node.
 | Restart the Server | check ;-) |
 
 ## Step 3 - Create cluster
-In this step we will configure the Stack
+In this step we will configure the Stack.
+You can use my Script from the folder "Scripts".
 
-|Step|Screenshot|
+|Step|Script|
 |-|-|
-| 1. |  |
-| 2. |  |
-| 3. |  |
-| 4. |  |
-| 5. |  |
-| 6. |  |
-| 7. |  |
-| 8. |  |
-| 9. |  |
+| 1. | Enter-PSSession.ps1 |
+| 2. | AddtoDomain.ps1 |
+| 3. | InstallRolesandFeatures.ps1 |
+| 4. | ClusterPreparation.ps1 |
+| 5. | PrepareVolumes.ps1 |
+| 6. | CreateCluster.ps1 |
+| 7. | NetworkATCConfig.ps1 |
+| 8. | EnableStorageSpacesDirect.ps1 |
+| 9. | CreateVolumes.ps1 |
 | Ready! | check ;-) |
 
 
